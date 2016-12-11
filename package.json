@@ -1,0 +1,26 @@
+{
+  "name": "electron-bridge",
+  "version": "0.1.0",
+  "description": "electron bridge between main process and render process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/electron-bridge.git"
+  },
+  "keywords": [
+    "electron",
+    "bridge"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/electron-bridge/issues"
+  },
+  "homepage": "https://github.com/LoveKino/electron-bridge#readme",
+  "dependencies": {
+    "general-bridge": "^0.2.0"
+  }
+}
