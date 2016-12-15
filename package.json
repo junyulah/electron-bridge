@@ -1,6 +1,6 @@
 {
   "name": "electron-bridge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "electron bridge between main process and render process",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/LoveKino/electron-bridge#readme",
   "dependencies": {
-    "general-bridge": "^0.2.0"
+    "general-bridge": "^0.2.1"
   }
 }
